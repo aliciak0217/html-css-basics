@@ -1,20 +1,23 @@
 body{
-	background-color: #1B435D;
+	background-color:lightskyblue;
 	font-family: sans-serif;
   margin: 0;
   padding: 0;
 }
 
 h1{
-	color: #FF895D;
-}
-
-h3 {
-  color: #78BBE6;
+	color: darkslategray;
+  font-family: "Cournier"
 }
 
 p {
-  color: #D5EEFF;
+  color: midnightblue;
+  font-family: "Tahoma" monospace;
+}
+
+p {
+  color: black;
+  font-family: Tahoma
 }
 
 .wrapper {
